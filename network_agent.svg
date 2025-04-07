@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <!-- Green circle background -->
+  <circle cx="128" cy="128" r="120" fill="#4CAF50"/>
+  
+  <!-- White checkmark -->
+  <path d="M76.8 128 L115.2 166.4 L179.2 89.6" 
+        stroke="white" 
+        stroke-width="25.6" 
+        stroke-linecap="round" 
+        stroke-linejoin="round" 
+        fill="none"/>
+</svg>

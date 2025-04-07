@@ -1,0 +1,37 @@
+# Build directories
+build/
+dist/
+__pycache__/
+*.pyc
+
+# Environment and configuration
+config.env
+*.env
+!config.env.example
+
+# Logs
+logs/
+*.log
+
+# Database files
+instance/
+*.db
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Node modules (for frontend)
+frontend/node_modules/
+
+# System specific
+.DS_Store
+Thumbs.db
+
+# PyInstaller
+*.spec
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
